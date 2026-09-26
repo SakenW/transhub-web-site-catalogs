@@ -1,0 +1,204 @@
+{
+  "schema": "trans-hub.web-site-catalog-release-manifest.v1",
+  "tag": "v2026.9.26.1",
+  "siteCount": 28,
+  "sourceUnitCount": 1821,
+  "assets": [
+    {
+      "siteKey": "airtable",
+      "asset": "airtable.canonical-source-catalog.json",
+      "sha256": "d2181c6445ea78cbb3852facde22b0787effa81a8bac314372b4c447c6eab9d8",
+      "sizeBytes": 50831,
+      "sourceUnits": 69
+    },
+    {
+      "siteKey": "anthropic",
+      "asset": "anthropic.canonical-source-catalog.json",
+      "sha256": "9ca6728b8dde0e453399e69907a7df007581952828f90c40ccfc949117f08b6f",
+      "sizeBytes": 51255,
+      "sourceUnits": 69
+    },
+    {
+      "siteKey": "askubuntu",
+      "asset": "askubuntu.canonical-source-catalog.json",
+      "sha256": "2b4248793663473411b204b99f14864f95776674704e5c453cea2e8e135b0faa",
+      "sizeBytes": 35847,
+      "sourceUnits": 48
+    },
+    {
+      "siteKey": "curseforge",
+      "asset": "curseforge.canonical-source-catalog.json",
+      "sha256": "23fbc8b302aeb4000e32c1deb9ab74fa550cff1a2d7c10429f5c0446538b9ba0",
+      "sizeBytes": 32375,
+      "sourceUnits": 42
+    },
+    {
+      "siteKey": "docker-hub",
+      "asset": "docker-hub.canonical-source-catalog.json",
+      "sha256": "5d4654084e4ee5c54579b8f56868f378a8587e29a8803d09a1466573ae25ea54",
+      "sizeBytes": 44820,
+      "sourceUnits": 51
+    },
+    {
+      "siteKey": "figma",
+      "asset": "figma.canonical-source-catalog.json",
+      "sha256": "3f666d1c2aaf53b75c7f456fdbc95e896d71f344b7d338ba8681b76547049ad3",
+      "sizeBytes": 337699,
+      "sourceUnits": 430
+    },
+    {
+      "siteKey": "framer",
+      "asset": "framer.canonical-source-catalog.json",
+      "sha256": "443cb1f9df80a1259a2dbfdffb944df7d14aaeb7ff290c9bf780143b248b5726",
+      "sizeBytes": 51353,
+      "sourceUnits": 70
+    },
+    {
+      "siteKey": "github",
+      "asset": "github.canonical-source-catalog.json",
+      "sha256": "66b4d0389ee659e222d4fe3f617852d5c98271fd4ec9394043b4abf28c82f4ad",
+      "sizeBytes": 78761,
+      "sourceUnits": 93
+    },
+    {
+      "siteKey": "hacker-news",
+      "asset": "hacker-news.canonical-source-catalog.json",
+      "sha256": "2962c0a1ad106e2ec458b4663d56cfdd0f90ba59a6c030a1213d634e7f6279fb",
+      "sizeBytes": 13739,
+      "sourceUnits": 18
+    },
+    {
+      "siteKey": "huggingface",
+      "asset": "huggingface.canonical-source-catalog.json",
+      "sha256": "c04d6552ecf13609b8e7db7181b35fb59ae9a0228b2adf6199653c7bb8594d55",
+      "sizeBytes": 58304,
+      "sourceUnits": 60
+    },
+    {
+      "siteKey": "kaggle",
+      "asset": "kaggle.canonical-source-catalog.json",
+      "sha256": "1d742ca69d7c4abd17a163c5f6ef26f09c884383e946778d311a2d80f60c40a7",
+      "sizeBytes": 12128,
+      "sourceUnits": 16
+    },
+    {
+      "siteKey": "linear",
+      "asset": "linear.canonical-source-catalog.json",
+      "sha256": "f52ee8fc69811e17e27c1ec0435d7ab61e8f9315dc7ce2b437f43bc7791ed687",
+      "sizeBytes": 33079,
+      "sourceUnits": 45
+    },
+    {
+      "siteKey": "miro",
+      "asset": "miro.canonical-source-catalog.json",
+      "sha256": "243b6c17385f29c06689654d1fbd8cbac08edda5e330322bb41f10bb722c4f40",
+      "sizeBytes": 10363,
+      "sourceUnits": 13
+    },
+    {
+      "siteKey": "modrinth",
+      "asset": "modrinth.canonical-source-catalog.json",
+      "sha256": "5e3059970e90345a87ffa3eaaeca5f750a060c7f00088757a76573e9f9712328",
+      "sizeBytes": 25439,
+      "sourceUnits": 34
+    },
+    {
+      "siteKey": "netlify",
+      "asset": "netlify.canonical-source-catalog.json",
+      "sha256": "eee51c1f253c7411f295573fc808771a91c74dec26fe036700da3af19c735f81",
+      "sizeBytes": 31025,
+      "sourceUnits": 42
+    },
+    {
+      "siteKey": "nexusmods",
+      "asset": "nexusmods.canonical-source-catalog.json",
+      "sha256": "987e53dac42939c640beb1c3e1386caa93c0c80406eb1427bb791442cb431a68",
+      "sizeBytes": 24741,
+      "sourceUnits": 33
+    },
+    {
+      "siteKey": "npm",
+      "asset": "npm.canonical-source-catalog.json",
+      "sha256": "4d434ced8c077c0c508324f7b926684498e984109bb36824d02135f688c8f33b",
+      "sizeBytes": 17755,
+      "sourceUnits": 24
+    },
+    {
+      "siteKey": "postman",
+      "asset": "postman.canonical-source-catalog.json",
+      "sha256": "e62ffe6f9764eadc18c39a6aebed68ff14443cdebaa73b362dc6ca0d4be500d8",
+      "sizeBytes": 16387,
+      "sourceUnits": 21
+    },
+    {
+      "siteKey": "producthunt",
+      "asset": "producthunt.canonical-source-catalog.json",
+      "sha256": "1382b8b99056570bc45db58ae97dd9914202e5ed78f2e695db35ac618f4af7b4",
+      "sizeBytes": 55633,
+      "sourceUnits": 74
+    },
+    {
+      "siteKey": "railway",
+      "asset": "railway.canonical-source-catalog.json",
+      "sha256": "df052c6d500a39b96203ec6971d9ceb6adc812121a506a296b5900216af1ba8c",
+      "sizeBytes": 22335,
+      "sourceUnits": 30
+    },
+    {
+      "siteKey": "replit",
+      "asset": "replit.canonical-source-catalog.json",
+      "sha256": "828b844c939730b0f7a5646f25792e616160690e644dfce34dd6521ec62eefcb",
+      "sizeBytes": 36941,
+      "sourceUnits": 50
+    },
+    {
+      "siteKey": "serverfault",
+      "asset": "serverfault.canonical-source-catalog.json",
+      "sha256": "48d524057e6abbb159d535ef3525ddc35d6dca8e712b5ea0ea412b13e3afd0e8",
+      "sizeBytes": 36049,
+      "sourceUnits": 48
+    },
+    {
+      "siteKey": "stackoverflow",
+      "asset": "stackoverflow.canonical-source-catalog.json",
+      "sha256": "dcbffa83bc74599ac68896ffd0ceef4bff2c35360b9631861bedbb9d96b89eef",
+      "sizeBytes": 45131,
+      "sourceUnits": 60
+    },
+    {
+      "siteKey": "supabase",
+      "asset": "supabase.canonical-source-catalog.json",
+      "sha256": "1d5c8612acd2cea06a89f3c93236d887f3247f9ed52b58f34dcd6cc8761d28ba",
+      "sizeBytes": 42274,
+      "sourceUnits": 57
+    },
+    {
+      "siteKey": "superuser",
+      "asset": "superuser.canonical-source-catalog.json",
+      "sha256": "15436eb0b3fb0061f19d6d9fcae311414f15126fd4f49e14e9a574018f6b66ca",
+      "sizeBytes": 36590,
+      "sourceUnits": 49
+    },
+    {
+      "siteKey": "vercel",
+      "asset": "vercel.canonical-source-catalog.json",
+      "sha256": "34fb34b10527b113be012173b2651c2366229b3615e119796e0ce4d64709f45f",
+      "sizeBytes": 42540,
+      "sourceUnits": 58
+    },
+    {
+      "siteKey": "webflow",
+      "asset": "webflow.canonical-source-catalog.json",
+      "sha256": "89a4e6e4d04bd235c3cab4e1038fe5a9956c9c533df62f7c04e5f0aa5a770e1d",
+      "sizeBytes": 48554,
+      "sourceUnits": 66
+    },
+    {
+      "siteKey": "zapier",
+      "asset": "zapier.canonical-source-catalog.json",
+      "sha256": "f10cb29dc184b43c5d63235583a8b65685c2c196cdb21eb049059ff4d0d46d90",
+      "sizeBytes": 118944,
+      "sourceUnits": 151
+    }
+  ]
+}
