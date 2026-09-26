@@ -14,3 +14,5 @@ set, including unchanged assets from earlier Releases. The JSON file under
 `releases/` records the intended asset names, exact SHA-256 values and source
 unit counts before an immutable Release is published. It is review evidence,
 not a substitute for the GitHub Release assets or their server-side adoption.
+The executor accepts stable three-component numeric tags such as `v2026.9.27`;
+four-component date serials are not recognized as stable Releases.
